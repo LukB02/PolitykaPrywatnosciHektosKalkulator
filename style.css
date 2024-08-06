@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#main-content {
+    max-width: 80%;
+    text-align: justify;
+    color: #4B4F53;
+}
+
+h2 {
+    text-align: center;
+}
